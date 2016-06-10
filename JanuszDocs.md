@@ -225,7 +225,7 @@ Node'y klastra połączone są switchem, każdy z nich ma ustalony statyczny adr
 
 ---
 # Architektura software'owa
-![ARCHITECTURE](/uploads/b6863d9af28b1d4d2c1419565b94e062/ARCHITECTURE.jpg)
+![ARCHITECTURE](software-architecture.jpg)
 
 ---
 # Specyfikacja Janusz Event Generator
